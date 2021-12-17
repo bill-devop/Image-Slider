@@ -1,0 +1,25 @@
+.max-height {
+    min-height: 100vh;
+}
+
+.img-container {
+    min-height: 100vh;
+    background: url("images/air.jfif") center fixed no-repeat;
+}
+
+.btn-left {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+.btn-right {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+}
+
+.btn {
+    border: 5px solid blue;
+    border-radius: 7px;
+}
